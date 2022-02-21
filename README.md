@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuditBisht
+- 👋 Hi, I’m @muditbisht
 - 👀 I’m interested in Cloud Coputing, Machine Learning
 - 🌱 I’m currently learning AWS Cloud, Machine Learning
 - 💞️ I’m looking to collaborate on ...
