@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muditbisht
-- 👀 I’m interested in Cloud Coputing, Machine Learning
+- 👀 I’m interested in Cloud Computing, Machine Learning
 - 🌱 I’m currently learning AWS Cloud, Machine Learning
 - 📫 How to reach me 
 - 💻 Projects done by me
